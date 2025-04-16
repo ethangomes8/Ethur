@@ -1,13 +1,13 @@
 # 🍺 Ethur Personnellement - PGCPO pour la Brasserie Terroir & Saveurs
 
-Bienvenue sur le dépôt GitHub du projet **Ethur Personnellement**, une **Plateforme de Gestion et de Communication pour Petite Organisation (PGCPO)** développée pour la **Brasserie Terroir & Saveurs**, située dans les Hauts-de-France. Ce projet a été réalisé dans le cadre de ma première année de BTS SIO à l’EPSI Lille.
+Bienvenue sur le dépôt GitHub du projet **Ethur**, une **Plateforme de Gestion et de Communication pour Petite Organisation (PGCPO)** développée pour la **Brasserie Terroir & Saveurs**, située dans les Hauts-de-France. Ce projet a été réalisé dans le cadre de ma première année de BTS SIO à l’EPSI Lille.
 
 ---
 
 ## Objectif du projet
 
 L’objectif de ce projet est double :  
-- **Développer la présence en ligne de la brasserie** à travers un site vitrine professionnel et attrayant.  
+- **Développer la présence en ligne de la brasserie** à travers un site vitrine professionnel et attrayant (Simulation posé par l'intervenant)  
 - **Fournir des outils de gestion numériques** adaptés aux différents profils des membres de la brasserie (administrateur, direction, brasseur, caissier, client).
 
 ---
@@ -21,14 +21,13 @@ L’objectif de ce projet est double :
 ## Structure de la base de données
 
 La base de données est organisée autour des entités suivantes :
-- **Utilisateurs** (admin, brasseurs, direction, caissiers, clients)
-- **Produits** (bières, spiritueux)
-- **Stocks matières premières** & **produits finis**
+- **CLient** (admin, brasseurs, direction, caissiers, clients)
+- **Stocks**
 - **Recettes**
-- **Ventes / Achats**
+- **Matière Premières**
 - **Réservations**
-- **Logs systèmes**
-- **Points de fidélité**
+- **Finance**
+
 
  La BDD est pensée pour être **évolutive et modulaire**, permettant l'ajout futur de fonctionnalités ou profils utilisateurs.*
 
