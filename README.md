@@ -110,7 +110,6 @@ Les services installés et configurés :
 ## Sources et ressources
  
 - Outils : DokuWiki (gestion projet), phpMyAdmin  
-- Images et icônes : [Unsplash](https://unsplash.com), [Flaticon](https://www.flaticon.com)  
 - Documents pédagogiques : www.pedagogeek.fr  
 - Schémas de calculs : Annexe projet
 
