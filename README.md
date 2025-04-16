@@ -14,8 +14,20 @@ L’objectif de ce projet est double :
 
 ## Structure du dépôt
 
-
-
+- Database
+   - config.php
+- public
+   - images
+      - banniere.jpg
+      - bannierebiere.jpg
+      - blonde.png
+      - brune.webp
+      - chaine.jpg
+      - ethurbiere.webp
+      - rouge2.jpg
+        
+- admin_dashboard.php
+- annule_reservation.php
 
 ---
 
