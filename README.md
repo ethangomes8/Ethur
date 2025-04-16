@@ -16,6 +16,7 @@ L’objectif de ce projet est double :
 
 
 
+
 ---
 
 ## Structure de la base de données
@@ -57,42 +58,60 @@ Les fonctionnalités **réalisées par mes soins** sont **_en gras et en orange_
 - Création du trello et rédaction des sprints
 - **_Page Index_**
 - Hébergement du site
+- **_Page de connexion_**
+- **_Page d'inscription_**
+- **_Page de déconnexion logout.php_**
+- **_Page contact.php_**
 
 ### Sprint 2 Base de Donnée
 - **_MCD de base de données_**
 - **_Création de la BDD sur phpmyadmin_**
 - Création des pages de chaque persona pour les connecter à la BDD
 - **_Création de la page administrateur_**
-- **_Système de MDP_**
+- **_Système de MDP hashé_**
 
 ### Sprint 3 Brasserie
 - Faire la page brasseur
 - Outils de brassage (calcul)
 - Gestion du stock (Matières)
+- **_Gestion du stock actuel (bières)_**
 - **_Changement du blog en pdf sur pedagogeek_**
 - **_(Option) Sauvegarde de recettes (partiel)_**
 
-### Sprint 4 Management
+### Sprint 4 Client & Admin
+- **_Tableau de bord administrateur_**
+- **_Fonction de CRUD de la page Admin_**
+- **_Création de la page utilisateur_**
+- **_Système de Commande/Réservation des bières_**
+- **_Système de fidélité_**
+
+### Sprint 5 Management
 - Bilan Financier
 - Bilan Commercial
 - Passerelle de gestion
 
-### Sprint 5 Caissier
-- Système de caisse
+### Sprint 6 Caissier
+- **_Système de caisse_**
 - **_Fidélité_**
 - **_Système de réservation de produits_**
+- **_Système d'achats manuel_**
+- **Possibilité d'ajout de compte client_**
 
-### Sprint 6 Finition 
+### Sprint 7 Finition 
 - **_Finition du site_**
 - Consultation des logs
 - **_Supervision serveur (base minimale)_**
 - **_Canva de présentation_**
+- **_Relier tout les fichiers à la base de données et vérifier de la compatibilité générale du site_**
+- **_Bouton de retour au tableau de bord / de déconnexion de toutes les pages_**
 
 ---
 
 ## Démonstration
 
 ### Vidéo de fonctionnement :
+
+Lien youtube : 
 
 ---
 
