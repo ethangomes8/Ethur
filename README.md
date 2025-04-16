@@ -52,40 +52,41 @@ L'application est divisée en plusieurs modules :
 Voici l’ensemble des fonctionnalités proposées par l’application.  
 Les fonctionnalités **réalisées par mes soins** sont **_en gras et en orange_** :
 
-### Site vitrine
-- **_Affichage dynamique des produits (popup/page)_**
-- **_Menu de navigation_**
-- **_Design en teintes cuivrées avec logo intégré_**
+### Sprint 1 Initialisation 
+- Logo Brasserie
+- Création du trello et rédaction des sprints
+- **_Page Index_**
+- Hébergement du site
 
-### Gestion des utilisateurs
-- **_Connexion/Déconnexion_**
-- **_Création, modification, suppression des comptes par l’admin_**
-- Affichage d’un message de bienvenue selon le rôle connecté
+### Sprint 2 Base de Donnée
+- **_MCD de base de données_**
+- **_Création de la BDD sur phpmyadmin_**
+- Création des pages de chaque persona pour les connecter à la BDD
+- **_Création de la page administrateur_**
+- **_Système de MDP_**
 
-### Profil Brasseur
-- **_Calculs automatiques pour la préparation de la bière (formulaire)_**
-- **_CRUD stock matières premières_**
-- **_CRUD stock produits finis_**
+### Sprint 3 Brasserie
+- Faire la page brasseur
+- Outils de brassage (calcul)
+- Gestion du stock (Matières)
+- **_Changement du blog en pdf sur pedagogeek_**
 - **_(Option) Sauvegarde de recettes (partiel)_**
 
-### Profil Direction
-- **_Consultation et saisie du bilan financier mensuel_**
-- **_Consultation du bilan commercial_**
+### Sprint 4 Management
+- Bilan Financier
+- Bilan Commercial
+- Passerelle de gestion
 
-### Profil Caissier
-- **_Système de caisse avec sélection de produits_**
-- **_Création de compte client à la volée_**
-- **_Gestion des remises et fidélité_**
-
-### Profil Client
-- **_Affichage des points de fidélité_**
-- **_Historique des achats_**
+### Sprint 5 Caissier
+- Système de caisse
+- **_Fidélité_**
 - **_Système de réservation de produits_**
 
-### Profil Administrateur
-- **_Gestion des comptes utilisateurs_**
-- **_Consultation des logs_**
+### Sprint 6 Finition 
+- **_Finition du site_**
+- Consultation des logs
 - **_Supervision serveur (base minimale)_**
+- **_Canva de présentation_**
 
 ---
 
