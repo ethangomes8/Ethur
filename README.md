@@ -139,7 +139,7 @@ Les fonctionnalités **réalisées par mes soins** sont **_en gras et en orange_
 
 ### Vidéo de fonctionnement :
 
-Lien youtube : https://youtu.be/uCPaAX0lrB4
+Lien youtube : [vidéo](https://youtu.be/k4V0SAnApyc)
 
 ---
 
