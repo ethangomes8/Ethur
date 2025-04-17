@@ -50,12 +50,12 @@ L’objectif de ce projet est double :
 ## Structure de la base de données
 
 La base de données est organisée autour des entités suivantes :
-- **CLient** (id, nom_utilisateur, email, , mdp, role(admin, brasseurs, direction, caissiers, clients), mdp_reset, points)
-- **Stocks**
-- **Recettes**
-- **Matière Premières**
-- **Réservations**
-- **Finance**
+- **CLient** (<ins>id</ins>, nom_utilisateur, email, , mdp, role(admin, brasseurs, direction, caissiers, clients), mdp_reset, points)
+- **Stocks** (<ins>id</ins>, type, description, montant, date)
+- **Recettes** (<ins>id</ins>, nom, quantite, unite)
+- **Matière Premières** (<ins>id</ins>, #brasseur_id, nom, volume, alcool, ebc, malt, brassage, eaurince, mcu, ebcresultat, srm, levure, houblon, arome, cree_le)
+- **Réservations** (<ins>id</ins>, #utilisateur_id, #biere, quantite, nom_reservation, date_reservation, status, prix, points_utilises)
+- **Finance** (<ins>id</ins>, biere, quantite, prix)
 
 
  La BDD est pensée pour être **évolutive et modulaire**, permettant l'ajout futur de fonctionnalités ou profils utilisateurs.*
