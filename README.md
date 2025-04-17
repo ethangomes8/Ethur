@@ -57,7 +57,7 @@ L’objectif de ce projet est double :
 │   └── config.php
 
 └── public/
-
+    
     └── images/
     
         ├── banniere.jpg
