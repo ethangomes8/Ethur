@@ -114,18 +114,18 @@ Les fonctionnalités **réalisées par mes soins** sont **_en gras et en orange_
 ### Sprint 1 Initialisation 
 - Logo Brasserie
 - Création du trello et rédaction des sprints
-- **_Page Index_**
+- **_Page Index_** <img width="938" alt="image" src="https://github.com/user-attachments/assets/fe425a7e-51c4-40e8-a950-b8522c27d575" />
 - Hébergement du site
-- **_Page de connexion_**
-- **_Page d'inscription_**
-- **_Page de déconnexion logout.php_**
-- **_Page contact.php_**
+- **_Page de connexion_** <img width="944" alt="image" src="https://github.com/user-attachments/assets/9e09f2d0-ae4d-4b6b-8624-2e7d01e96d30" />
+- **_Page d'inscription_** <img width="946" alt="image" src="https://github.com/user-attachments/assets/df479b5e-1ddd-406e-8c10-cbb75d162fb6" />
+- **_Page de déconnexion logout.php_** 
+- **_Page contact.php_** <img width="938" alt="image" src="https://github.com/user-attachments/assets/5a52183a-70bb-4e28-a4fe-fc5aa129a51e" />
 
 ### Sprint 2 Base de Donnée
 - **_MCD de base de données_**
 - **_Création de la BDD sur phpmyadmin_**
 - Création des pages de chaque persona pour les connecter à la BDD
-- **_Création de la page administrateur_**
+- **_Création de la page administrateur_** <img width="946" alt="image" src="https://github.com/user-attachments/assets/813a1268-a406-41f1-b7d4-408230e6223f" />
 - **_Système de MDP hashé_**
 
 ### Sprint 3 Brasserie
