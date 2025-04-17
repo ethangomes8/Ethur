@@ -14,36 +14,36 @@ L’objectif de ce projet est double :
 
 ## Structure du dépôt
 
-- Database
-   - config.php
-- public
-   - images
-      - banniere.jpg
-      - bannierebiere.jpg
-      - blonde.png
-      - brune.webp
-      - chaine.jpg
-      - ethurbiere.webp
-      - rouge2.jpg
-- admin_dashboard.php
-- annule_reservation.php
-- brasseurs_dashboard.php
-- calculBiere.php
-- commercial.php
-- connexion.php
-- contact.php
-- direction_dashboard.php
-- finance.php
-- index.php
-- info-register.php
-- logout.php
-- README.md
-- register.php
-- reserve_biere.php
-- reset_password.php
-- stockmat.php
-- terroir_savoir.sql
-- user_dashboard.php
+├── admin_dashboard.php
+├── annule_reservation.php
+├── brasseurs_dashboard.php
+├── calculBiere.php
+├── commercial.php
+├── connexion.php
+├── contact.php
+├── direction_dashboard.php
+├── finance.php
+├── index.php
+├── info-register.php
+├── logout.php
+├── register.php
+├── reserve_biere.php
+├── reset_password.php
+├── stockmat.php
+├── terroir_savoir.sql
+├── user_dashboard.php
+├── README.md
+├── Database/
+│   └── config.php
+└── public/
+    └── images/
+        ├── banniere.jpg
+        ├── bannierebiere.jpg
+        ├── blonde.png
+        ├── brune.webp
+        ├── chaine.jpg
+        ├── ethurbiere.webp
+        └── rouge2.jpg
 
 ---
 
@@ -173,4 +173,5 @@ Projet réalisé dans le cadre de l’atelier professionnel SLAM 2025
 
 ## 📝 Licence
 
-Ce projet appartient à Ethan & Arthur
+Ce projet est la propriété intellectuelle d’Ethan Gomes-Carlier & Arthur Picque.
+Toute réutilisation doit être sous autorisation
