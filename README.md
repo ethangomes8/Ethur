@@ -176,10 +176,8 @@ Lien youtube : [vidéo](https://youtu.be/k4V0SAnApyc)
 ## Hébergement et services
 
 Les services installés et configurés :
-- **Serveur web** : Infinity Free
-- **FTP** : VSFTP sécurisé
-- **SSH** : Clés RSA et sécurisation par fail2ban
-- **Nom de domaine** : infy.uk fourni par InfinityFree
+- **Serveur web** : Infinity Free & je-code.com
+- **Nom de domaine** : infy.uk fourni par InfinityFree & arthurp fourni par je-code.com
 - **Base de données** : MySQL, PhpMyAdmin
 
 ---
