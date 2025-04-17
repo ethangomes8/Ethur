@@ -50,7 +50,7 @@ L’objectif de ce projet est double :
 ## Structure de la base de données
 
 La base de données est organisée autour des entités suivantes :
-- **CLient** (admin, brasseurs, direction, caissiers, clients)
+- **CLient** (id, nom_utilisateur, email, , mdp, role(admin, brasseurs, direction, caissiers, clients), mdp_reset, points)
 - **Stocks**
 - **Recettes**
 - **Matière Premières**
