@@ -132,16 +132,16 @@ Les fonctionnalités **réalisées par mes soins** sont **_en gras et en orange_
 - Faire la page brasseur
 - Outils de brassage (calcul)
 - Gestion du stock (Matières)
-- **_Gestion du stock actuel (bières)_**
+- **_Gestion du stock actuel (bières)_** <img width="941" alt="image" src="https://github.com/user-attachments/assets/8a8d6f1a-1211-4c18-ab0d-e0b11f1b15d3" />
 - **_Changement du blog en pdf sur pedagogeek_**
-- **_(Option) Sauvegarde de recettes (partiel)_**
+- **_(Option) Sauvegarde de recettes (partiel)_** <img width="949" alt="image" src="https://github.com/user-attachments/assets/8d15922d-86fb-45fb-bb23-141587a6e544" />
 
 ### Sprint 4 Client & Admin
-- **_Tableau de bord administrateur_**
-- **_Fonction de CRUD de la page Admin_**
-- **_Création de la page utilisateur_**
-- **_Système de Commande/Réservation des bières_**
-- **_Système de fidélité_**
+- **_Tableau de bord administrateur_** <img width="946" alt="image" src="https://github.com/user-attachments/assets/813a1268-a406-41f1-b7d4-408230e6223f" />
+- **_Fonction de CRUD de la page Admin(Présent sur la capture ci-dessus_**
+- **_Création de la page utilisateur_** 
+- **_Système de Commande/Réservation des bières_** <img width="934" alt="image" src="https://github.com/user-attachments/assets/6b3e6cef-36cc-4ea4-b515-cb50cbbdf75f" />
+- **_Système de fidélité(Présent ci dessus)_** 
 
 ### Sprint 5 Management
 - Bilan Financier
@@ -149,11 +149,11 @@ Les fonctionnalités **réalisées par mes soins** sont **_en gras et en orange_
 - Passerelle de gestion
 
 ### Sprint 6 Caissier
-- **_Système de caisse_**
+- **_Système de caisse_** <img width="938" alt="image" src="https://github.com/user-attachments/assets/3642874b-0e2c-4126-8743-a39357659ceb" />
 - **_Fidélité_**
-- **_Système de réservation de produits_**
-- **_Système d'achats manuel_**
-- **Possibilité d'ajout de compte client_**
+- **_Système de réservation de produits_** <img width="92" alt="image" src="https://github.com/user-attachments/assets/d319dc06-a4b4-4853-9c17-4126fed713f0" />
+- **_Système d'achats manuel_** <img width="940" alt="image" src="https://github.com/user-attachments/assets/d367827e-c418-4b7e-866b-2394a0671977" />
+- **Possibilité d'ajout de compte client_** <img width="940" alt="image" src="https://github.com/user-attachments/assets/91708f4c-4a09-4748-8a39-7123e03e6b0a" />
 
 ### Sprint 7 Finition 
 - **_Finition du site_**
@@ -161,7 +161,7 @@ Les fonctionnalités **réalisées par mes soins** sont **_en gras et en orange_
 - **_Supervision serveur (base minimale)_**
 - **_Canva de présentation_**
 - **_Relier tout les fichiers à la base de données et vérifier de la compatibilité générale du site_**
-- **_Bouton de retour au tableau de bord / de déconnexion de toutes les pages_**
+- **_Bouton de retour au tableau de bord / de déconnexion de toutes les pages_** <img width="217" alt="image" src="https://github.com/user-attachments/assets/e4a627fe-f37f-4bb4-8ecf-78259f9f5a44" />
 
 ---
 
